@@ -1,0 +1,31 @@
+body {
+  background-color: #282c34;
+}
+
+.App {
+  text-align: center;
+  background-color: #282c34;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  /* min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white; */
+  
+}
+
+.main-background-img {
+  background-image: url(https://images.pexels.com/photos/3987223/pexels-photo-3987223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 75vh;
+  margin-top: 0.02%;
+}
+
