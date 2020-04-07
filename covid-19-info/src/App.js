@@ -1,7 +1,9 @@
 import React from 'react';
 import './App.css';
+import Navbar from './Components/Navbar';
+import TableData from './Components/Table-Data';
 
-import Navbar from './Components/Navbar'
+
 
 function App() {
   return (
@@ -10,6 +12,7 @@ function App() {
       <div className='main-background-img'></div>
       <header className="App-header">
       </header>
+      <TableData />
     </div>
   );
 }
